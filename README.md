@@ -1,46 +1,41 @@
-# 📊 Desafio Power BI - Randstad | DIO
+# 📊 Desafio 2 - Power BI | Randstad & DIO
 
-Este repositório foi criado para hospedar o projeto do primeiro desafio de Power BI da trilha de Análise de Dados da DIO em parceria com a Randstad.
-
----
-
-## 🧩 Sobre o Desafio
-
-O desafio consiste em:
-
-- Replicar duas páginas de relatório criadas durante o curso
-- Criar uma terceira página original com os seguintes visuais:
-  - Mapa com soma de vendas e unidades vendidas por país
-  - Mapa com soma de lucro por país
-  - Gráfico de pizza com lucro por segmento
-- Organizar os visuais com títulos claros e dicas de ferramenta
-- Publicar o relatório e exportá-lo como suplemento para PowerPoint ou salvar como `.pbix`
+Este repositório contém o segundo projeto da trilha de Análise de Dados da DIO em parceria com a Randstad. O desafio consistiu em criar um relatório mais elaborado e interativo no Power BI, utilizando a base `Financial Sample.xlsx`.
 
 ---
 
-## ⚠️ Situação Atual
+## ✅ O que foi feito
 
-Infelizmente, não consegui acessar o arquivo `Financial Sample.xlsx` disponibilizado no repositório oficial do desafio:
+O relatório foi dividido em duas páginas principais:
 
-🔗 [https://github.com/julianazanelatto/power_bi_analyst](https://github.com/julianazanelatto/power_bi_analyst)
+### 🔹 Página 1 — Visão Geral de Produtos e Segmentos
+- Indicadores de vendas e receita
+- Gráfico de barras: contagem de segmentos por produto
+- Gráfico de linha: contagem de clientes por produto
+- Segmentadores por produto, segmento, cliente e data
 
-Ao tentar acessar o link direto ou baixar o arquivo via botão "Raw", recebo uma mensagem de **conexão recusada** tanto no Microsoft Edge quanto no Opera. Isso me impediu de seguir com a construção do relatório no Power BI até o momento.
+### 🔹 Página 2 — Detalhamento por País e Lucro
+- Gráfico de dispersão: relação entre lucro e vendas
+- Tabela detalhada com país, produto, descontos e lucro
+- Segmentadores por país e produto
+
+Além disso, foram implementados:
+
+- 🔘 Botões de navegação entre páginas
+- 🎨 Layout personalizado com títulos e organização visual
+- 📌 Filtros interativos para explorar os dados com flexibilidade
 
 ---
 
-## 🛠️ Próximos Passos
+## 📁 Arquivos
 
-Estou buscando alternativas para resolver o problema, como:
+- `DashBoard-Atividade-1-da-d.i.o` — relatório completo no Power BI
 
-- Trocar de rede ou DNS
-- Adicionar exceções no antivírus
-- Baixar o arquivo por outro navegador ou dispositivo
+---
 
-Assim que conseguir acesso ao arquivo, atualizarei este repositório com:
+## 🚀 Publicação
 
-- O arquivo `.pbix` do relatório
-- O `README.md` completo com descrição dos visuais
-- Capturas de tela do dashboard final
+O relatório foi publicado no Power BI Service e está pronto para ser exportado como suplemento em PowerPoint ou compartilhado como `.pbix`.
 
 ---
 
@@ -48,5 +43,6 @@ Assim que conseguir acesso ao arquivo, atualizarei este repositório com:
 
 **Julio Oliveira**  
 📍 Salvador, BA – Brasil  
-Desenvolvido como parte da trilha de Análise de Dados da DIO
+Projeto desenvolvido como parte da formação em Análise de Dados na DIO
+
 
