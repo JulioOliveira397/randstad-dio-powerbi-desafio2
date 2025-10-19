@@ -29,7 +29,7 @@ Além disso, foram implementados:
 
 ## 📁 Arquivos
 
-- `DashBoard-Atividade-1-da-d.i.o` — relatório completo no Power BI
+- `DashBoard-Atividade-2-da-d.i.o` — relatório completo no Power BI
 
 ---
 
